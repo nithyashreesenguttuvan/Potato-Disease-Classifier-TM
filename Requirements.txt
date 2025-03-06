@@ -1,0 +1,3 @@
+https://teachablemachine.withgoogle.com/
+
+Get Started -> Image model -> Standard Image Model -> Provided the Clases -> Upload the images -> Train -> Test -> Download/Export Model
