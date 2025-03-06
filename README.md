@@ -1,21 +1,5 @@
 # Potato-Disease-Classifier-TM
 
-**Repository Structure**
-
-potato-disease-classifier-tm/
-│── models/
-│   ├── keras_model.h5
-│   ├── saved_model/
-│── dataset/
-│   ├── healthy/
-│   ├── early_blight/
-│   ├── late_blight/
-│── notebooks/
-│   ├── test_model.ipynb
-│── README.md
-│── requirements.txt
-│── app.py  (Optional Flask or Streamlit app for inference)
-
 # Potato Disease Classifier - Teachable Machine
 
 This repository contains a deep learning model trained using **Teachable Machine by Google** to classify potato leaves into three categories:
